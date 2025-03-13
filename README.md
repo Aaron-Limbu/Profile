@@ -9,8 +9,7 @@ Learning
 ![](https://github-readme-stats.vercel.app/api?username=Aaron-Limbu&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-Limbu&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aaron-Limbu&limit=5&theme=neon&combine_all_yearly_contributions=true)
+
 
 ---
 
